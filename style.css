@@ -533,6 +533,7 @@ background-color: var(--background);
     gap: 27px;
     justify-content: center;
     margin-top: 51px;
+    margin-bottom: 181px;
 }
 
 .content{
@@ -599,14 +600,14 @@ background-color: var(--background);
 
 .rodape h3{
     margin-bottom: 24px;
-    color: white;
+    color: var(--background);
     font-size: 18px;
 }
 
 
 
 .rodape ul a{
-    color: var(--background);
+    color: #A0A0A0;
     text-decoration: none;
     list-style: none;
     
@@ -651,11 +652,11 @@ background-color: var(--background);
     display: flex;
     margin-top: 65px;
     border-top: 1px solid rgba(255, 255, 255, 0.04);;
-    color: white;
     text-align: center;
     justify-content: center;
 }
 
 .copyright span{
+    color: #A0A0A0;
     margin-top: 23px;
 }
